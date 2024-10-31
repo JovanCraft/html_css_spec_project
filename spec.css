@@ -1,0 +1,33 @@
+
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+h2 {
+    color: darkblue;
+}
+h3 {
+    color: darkblue;
+}
+h4 {
+    color:darkblue;
+}
+p {
+    font-weight: bold;
+}
+.main-image {
+    background-color:lightskyblue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+.bacon-paragraph {
+    text-align: center;
+}
+
+* {
+    background-color: lightskyblue;
+
+}
